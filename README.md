@@ -1,2 +1,2 @@
 # ATIVIDADE: RESTAURANTE - FILA(QUEUE)
-Lenguage: PORT/BR: C#
+Lenguage: C#
