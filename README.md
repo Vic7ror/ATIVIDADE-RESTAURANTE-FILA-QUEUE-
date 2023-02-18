@@ -9,7 +9,7 @@ Deverá ser exibido um menu com as seguintes opções:
 - Remoção de cliente da fila de pagamentos
 - Remoção de cliente da fila de encomendas
 - Sair
-
+------------------------------------------------------------------------------------------
 - Cada cliente novo que entra na fila de pedidos recebe um código, que vai aumentando
 sequencialmente.
 - Sempre que um cliente entrar em uma fila, deverá ser impressa uma mensagem,
